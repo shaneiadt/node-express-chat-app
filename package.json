@@ -20,7 +20,7 @@
   "homepage": "https://github.com/shaneiadt/node-express-chat-app#readme",
   "dependencies": {
     "ejs": "^3.1.7",
-    "express": "^4.17.3",
+    "express": "^4.19.2",
     "nodemon": "^3.0.1",
     "socket.io": "^2.5.0"
   }
